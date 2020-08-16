@@ -20,6 +20,7 @@
 - [Application of Machine Learning Algorithms to KDD Intrusion Detection Dataset within Misuse Detection Context](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/KDD-cup-99/CD4/mlmta03.pdf),
 - [Reducing Features of KDD CUP 1999 Dataset for Anomaly Detection Using Back Propagation Neural Network](https://ieeexplore.ieee.org/document/7079087),
 - [Training Guidance with KDD Cup 1999 and NSL-KDD Data Sets of ANIDINR: Anomaly-Based Network Intrusion Detection System](https://www.sciencedirect.com/science/article/pii/S1877050920317804),
+- [KDD 1999 generation faults: a review and analysis](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/18530/KDD_1999_generation_faults.pdf?sequence=1),
 - и тд.
 
 Была проведена предварительная обработка данных:
