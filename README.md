@@ -15,7 +15,12 @@
 
 ## 1. Обнаружение атак в тестовой выборке
 Данная задача решается на известном датасете [NSL-KDD](https://www.sciencedirect.com/science/article/pii/S1877050920317804).
-Существует большое число работ (включая обзоры), посвященных решению задачи обнаружения кибер-атак на датасетах NSL-KDD и KDD Cup 1999: [1](http://airccse.org/journal/nsa/0512nsa08.pdf), [2](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/KDD-cup-99/CD4/mlmta03.pdf), [3](https://ieeexplore.ieee.org/document/7079087) и тд.
+Существует большое число работ (включая обзоры), посвященных решению задачи обнаружения кибер-атак на датасетах NSL-KDD и KDD Cup 1999:
+- [Multi Stage Filter Using Enhanced Adaboost for Network Intrusion Detection](http://airccse.org/journal/nsa/0512nsa08.pdf),
+- [Application of Machine Learning Algorithms to KDD Intrusion Detection Dataset within Misuse Detection Context](https://neuro.bstu.by/ai/To-dom/My_research/Papers-0/For-research/D-mining/Anomaly-D/KDD-cup-99/CD4/mlmta03.pdf),
+- [Reducing Features of KDD CUP 1999 Dataset for Anomaly Detection Using Back Propagation Neural Network](https://ieeexplore.ieee.org/document/7079087),
+- [Training Guidance with KDD Cup 1999 and NSL-KDD Data Sets of ANIDINR: Anomaly-Based Network Intrusion Detection System](https://www.sciencedirect.com/science/article/pii/S1877050920317804),
+- и тд.
 
 Была проведена предварительная обработка данных:
 1. Масштабирование (Z-нормализация);
@@ -46,9 +51,9 @@
 
 ## 2. Задача расчета и визуализации статистики
 Задача решается с помощью средств анализа и визуализации данных python.
-Пример представлен в презентации и на [интерфейсе веб-приложения](http://77.244.221.2:8501).
+Пример представлен в презентации.
 
 ## 3. Демонстрация работы модуля распознования и классификации кибер-атак
-Демонстрация реализована в веб-приложении по [ссылке](http://77.244.221.2:8501).
+Демонстрация реализована в веб-приложении.
 
 Необходимо загрузить файл из датасета Kyoto University Benchmark Data либо ввести данные вручную.
