@@ -58,3 +58,7 @@
 Демонстрация реализована в веб-приложении.
 
 Необходимо загрузить файл из датасета Kyoto University Benchmark Data либо ввести данные вручную.
+
+# Программы и ссылки по кибер-безопасности для старт-апов
+
+[Become Kaspersky innovation partner!](https://www.kaspersky.com/open-innovation-smb-call/)
